@@ -1,0 +1,23 @@
+{
+  "name": "lepto-vibrant-color",
+  "version": "1.0.0",
+  "description": "Lepto plugin using node-vibrant",
+  "main": "lepto-vibrant-color.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimitrinicolas/lepto-vibrant-color.git"
+  },
+  "keywords": [
+    "lepto",
+    "vibrant"
+  ],
+  "author": "Dimitri NICOLAS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dimitrinicolas/lepto-vibrant-color/issues"
+  },
+  "homepage": "https://github.com/dimitrinicolas/lepto-vibrant-color#readme",
+  "dependencies": {
+    "node-vibrant": "^3.0.0"
+  }
+}
